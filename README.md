@@ -64,13 +64,3 @@ Optimized Order:
 4. Marine Drive
 5. Fort Kochi
 ```
-
-## 📄 License
-
-MIT License
-
-## 🙋‍♂️ Author
-
-**Sanoy Boby**  
-📧 sanoyboby924@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sanoy)
